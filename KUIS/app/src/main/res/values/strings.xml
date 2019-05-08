@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AndroidKuis</string>
+    <string name="home">home</string>
+    <string name="gallery">Multimedia</string>
+    <string name="share">share</string>
+    <string name="help">help</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="create_account"><font color="#00ff00">text</font></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">rafii@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_keluar">Keluar</string>
+</resources>
